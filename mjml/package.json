@@ -1,0 +1,25 @@
+{
+  "name": "my-mjml-project",
+  "version": "1.0.0",
+  "description": "A project that uses MJML and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mjml",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mjml": "^4.7.1",
+    "mjml": "^4.7.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.17",
+    "typescript": "^4.5.5"
+  }
+}
