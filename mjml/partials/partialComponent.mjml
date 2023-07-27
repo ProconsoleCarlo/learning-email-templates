@@ -1,0 +1,12 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#DD685B">
+      <mj-column width="50%" background-color="#DD685B">
+        <mj-image padding="0" src="https://mjml.io/assets/img/mjml-logo.png" width="100px"></mj-image>
+      </mj-column>
+      <mj-column width="50%" background-color="#DD685B">
+        <mj-text color="white" font-size="24px">MJML rules! hello modified2</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
